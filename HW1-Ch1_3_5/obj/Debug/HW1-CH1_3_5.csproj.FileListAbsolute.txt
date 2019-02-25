@@ -1,0 +1,9 @@
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\bin\Debug\HW1-CH1_3_5.exe.config
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\bin\Debug\HW1-CH1_3_5.exe
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\bin\Debug\HW1-CH1_3_5.pdb
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\obj\Debug\HW1_CH1_3_5.计算.resources
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\obj\Debug\HW1_CH1_3_5.Properties.Resources.resources
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\obj\Debug\HW1-CH1_3_5.csproj.GenerateResource.cache
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\obj\Debug\HW1-CH1_3_5.csproj.CoreCompileInputs.cache
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\obj\Debug\HW1-CH1_3_5.exe
+D:\2019A_学习\C#程序设计_贾向阳\HW\HW1-CH1_3_5\obj\Debug\HW1-CH1_3_5.pdb

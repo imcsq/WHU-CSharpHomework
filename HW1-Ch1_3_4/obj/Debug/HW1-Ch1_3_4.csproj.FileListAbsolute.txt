@@ -1,0 +1,7 @@
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\obj\Debug\HW1-Ch1_3_4.csprojAssemblyReference.cache
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\obj\Debug\HW1-Ch1_3_4.csproj.CoreCompileInputs.cache
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\bin\Debug\HW1-Ch1_3_4.exe.config
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\bin\Debug\HW1-Ch1_3_4.exe
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\bin\Debug\HW1-Ch1_3_4.pdb
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\obj\Debug\HW1-Ch1_3_4.exe
+D:\2019A_学习\C#程序设计_贾向阳\HW1-Ch1_3_4\HW1-Ch1_3_4\obj\Debug\HW1-Ch1_3_4.pdb
