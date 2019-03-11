@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2-Ch2_3_7", "HW2-Ch2_3_7\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2-Ch2_3_9", "HW2-Ch2_3_9\HW2-Ch2_3_9.csproj", "{E35AC60F-1003-4094-9C87-ADD4424D01C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3-AbstractFactoryEg", "HW3-AbstractFactoryEg\HW3-AbstractFactoryEg.csproj", "{AEC1E285-A6BF-4507-9F61-1E332BEF8024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3-SingletonEg", "HW3-SingletonEg\HW3-SingletonEg.csproj", "{A894C0E5-98F4-4C00-A9DB-8BE31BED37BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{E35AC60F-1003-4094-9C87-ADD4424D01C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35AC60F-1003-4094-9C87-ADD4424D01C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35AC60F-1003-4094-9C87-ADD4424D01C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC1E285-A6BF-4507-9F61-1E332BEF8024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC1E285-A6BF-4507-9F61-1E332BEF8024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC1E285-A6BF-4507-9F61-1E332BEF8024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC1E285-A6BF-4507-9F61-1E332BEF8024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A894C0E5-98F4-4C00-A9DB-8BE31BED37BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A894C0E5-98F4-4C00-A9DB-8BE31BED37BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A894C0E5-98F4-4C00-A9DB-8BE31BED37BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A894C0E5-98F4-4C00-A9DB-8BE31BED37BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
