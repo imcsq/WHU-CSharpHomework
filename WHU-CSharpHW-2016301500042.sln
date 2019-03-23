@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4-Alarm", "HW4-Alarm\HW4-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4-OrderSystem", "HW4-OrderSystem\HW4-OrderSystem.csproj", "{2ADB4ECA-6555-44EF-8A64-3ACAEA1DA8F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5-OrderSystem2.0", "HW5-OrderSystem2.0\HW5-OrderSystem2.0.csproj", "{B00F8C1D-F936-4C55-80F1-1FD88B8F7F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2ADB4ECA-6555-44EF-8A64-3ACAEA1DA8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ADB4ECA-6555-44EF-8A64-3ACAEA1DA8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ADB4ECA-6555-44EF-8A64-3ACAEA1DA8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00F8C1D-F936-4C55-80F1-1FD88B8F7F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00F8C1D-F936-4C55-80F1-1FD88B8F7F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00F8C1D-F936-4C55-80F1-1FD88B8F7F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00F8C1D-F936-4C55-80F1-1FD88B8F7F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
