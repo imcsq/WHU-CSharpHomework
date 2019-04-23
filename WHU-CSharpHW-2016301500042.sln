@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW7-ordertest", "HW7-ordert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW7-DrawTree", "HW7-DrawTree\HW7-DrawTree.csproj", "{4AC4542D-04E3-4466-96D9-5C248EFED03C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW8-OrderSystemUI", "HW8-OrderSystemUI\HW8-OrderSystemUI.csproj", "{4609A456-8C5F-4226-B612-28D18565693A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{4AC4542D-04E3-4466-96D9-5C248EFED03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC4542D-04E3-4466-96D9-5C248EFED03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC4542D-04E3-4466-96D9-5C248EFED03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4609A456-8C5F-4226-B612-28D18565693A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4609A456-8C5F-4226-B612-28D18565693A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4609A456-8C5F-4226-B612-28D18565693A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4609A456-8C5F-4226-B612-28D18565693A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
